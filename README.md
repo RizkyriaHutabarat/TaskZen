@@ -122,7 +122,7 @@ For help getting started with Flutter, view
 1. Clone the repository
 
  ```sh
-  git clone https://github.com/4mritGiri/Task_Reminder_Apps.git
+  git clone https://github.com/4mritGiri/TaskZen.git
  ```
 2. Install dependencies
 
@@ -134,10 +134,8 @@ For help getting started with Flutter, view
   ```sh
     flutter run
   ```
-## Authors
-  - [@4mritGiri](https://github.com/4mrit)
 
-## Contributors
+## Cntributors
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make 
 are greatly appreciated. 
 1. Fork the Project
@@ -158,11 +156,6 @@ Distributed under the MIT License. See LICENSE for more information.
 - [GitHub](https://github.com/4mritGiri/Task_Reminder_Apps)
 - [Git](https://git-scm.com/)
 
-## Contact
-- Email: [Email](mailto:legendspam025@gmail.com)
-- GitHub: [GitHub](https://github.com/4mritGiri)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/4mritGiri/)
-- Twitter: [Twitter](https://twitter.com/4mritGiri)
 
 ## References
 - [Flutter Documentation](https://flutter.dev/docs)
